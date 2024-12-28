@@ -8,7 +8,7 @@
 
 <br>
 
-Cortexalt is an ecommerce intelligence platform: we help you turn raw products into actionable insights.
+Cortexalt is an ecommerce intelligence company: we help you turn raw products into actionable insights.
 
 Our first product, **Extract**, is a state of the art, rust based web crawler and scraper that extracts product data from ecommerce websites. We developed it from scratch for optimal performance, stealth and price efficiency.
 
